@@ -67,16 +67,16 @@ const items = [{
     "link": "https://youtu.be/kzJBHiIBpfA"
 },
 {
+    "title": "Behance",
+    "subtitle": "@anirudheyyani | Design Heaven 🤌🏻 ",
+    "image": behance,
+    "link": "https://www.behance.net/anirudheyyani" //Behance Pofile 
+},              
+{
     "title": "Dribbble",
     "subtitle": "@Anirudheyyani2002 | still underway 🙃 ",
     "image": dribbble,
     "link": "https://dribbble.com/Anirudheyyani2002" // Dribbble profile link 
-},
-{
-    "title": "Behance",
-    "subtitle": "@anirudheyyani1 | also underway 🤌🏻 ",
-    "image": behance,
-    "link": "https://www.behance.net/anirudheyyani1" //Behance Pofile 
 }
 ]
 
