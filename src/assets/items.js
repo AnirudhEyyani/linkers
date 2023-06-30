@@ -31,6 +31,18 @@ const items = [{
     "link": "https://github.com/AnirudhEyyani" //Github Profile link
 },
 {
+    "title": "Behance",
+    "subtitle": "@anirudheyyani | Design Heaven 🤌🏻 ",
+    "image": behance,
+    "link": "https://www.behance.net/anirudheyyani" //Behance Pofile 
+},              
+{
+    "title": "Dribbble",
+    "subtitle": "@Anirudheyyani2002 | still underway 🙃 ",
+    "image": dribbble,
+    "link": "https://dribbble.com/Anirudheyyani2002" // Dribbble profile link 
+},               
+{
     "title": "Instagram",
     "subtitle": "@anirudheyyani_ |  Shots of my life 🙂",
     "image": instagram,
@@ -65,18 +77,6 @@ const items = [{
     "subtitle": "in collaboration with RAIT ACM Student Chapter",
     "image": acm,
     "link": "https://youtu.be/kzJBHiIBpfA"
-},
-{
-    "title": "Behance",
-    "subtitle": "@anirudheyyani | Design Heaven 🤌🏻 ",
-    "image": behance,
-    "link": "https://www.behance.net/anirudheyyani" //Behance Pofile 
-},              
-{
-    "title": "Dribbble",
-    "subtitle": "@Anirudheyyani2002 | still underway 🙃 ",
-    "image": dribbble,
-    "link": "https://dribbble.com/Anirudheyyani2002" // Dribbble profile link 
 }
 ]
 
